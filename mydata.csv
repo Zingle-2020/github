@@ -1,0 +1,62 @@
+,Borough,Neighborhood,Latitude,Longitude,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue,Cluster Labels
+43,Jersey City,Jersey City_JC07307,40.748001,-74.04943,Pizza Place,Spanish Restaurant,Sandwich Place,Asian Restaurant,Donut Shop,2
+51,Bronx,Bronx_Kingsbridge,40.88168737,-73.90281799,Pizza Place,Bar,Food & Drink Shop,Latin American Restaurant,Mexican Restaurant,2
+53,Bronx,Bronx_Norwood,40.87722416,-73.87939074,Pizza Place,Bank,Park,Food & Drink Shop,American Restaurant,2
+56,Bronx,Bronx_Pelham Parkway,40.8574135,-73.85475564,Dessert Shop,Italian Restaurant,Pizza Place,Deli / Bodega,Asian Restaurant,2
+58,Bronx,Bronx_Bedford Park,40.87018516,-73.88551218,Diner,Mexican Restaurant,Pizza Place,Deli / Bodega,Sandwich Place,2
+60,Bronx,Bronx_Morris Heights,40.84789793,-73.91967159,Spanish Restaurant,Pizza Place,Bus Station,Bank,Food & Drink Shop,2
+62,Bronx,Bronx_East Tremont,40.84269616,-73.88735618,Pizza Place,Cosmetics Shop,Clothing Store,Café,Bank,2
+64,Bronx,Bronx_High  Bridge,40.83662301,-73.92610209,Pharmacy,Asian Restaurant,Latin American Restaurant,Seafood Restaurant,Food & Drink Shop,2
+65,Bronx,Bronx_Melrose,40.81975437,-73.90942161,Pizza Place,Pharmacy,Food & Drink Shop,Athletics & Sports,Sandwich Place,2
+78,Bronx,Bronx_Morris Park,40.84754906,-73.85040178,Pizza Place,Deli / Bodega,Bakery,Burger Joint,Donut Shop,2
+79,Bronx,Bronx_Belmont,40.8572771,-73.88845196,Italian Restaurant,Food & Drink Shop,Pizza Place,Deli / Bodega,Bakery,2
+80,Bronx,Bronx_Spuyten Duyvil,40.88139498,-73.91719048,Food,Stadium,Bank,Pharmacy,Pizza Place,2
+81,Bronx,Bronx_North Riverdale,40.90854283,-73.90453055,Asian Restaurant,Pizza Place,Italian Restaurant,Bank,Food & Drink Shop,2
+83,Bronx,Bronx_Schuylerville,40.82657952,-73.82620276,Pizza Place,Pharmacy,Bar,Mexican Restaurant,Diner,2
+87,Bronx,Bronx_Pelham Gardens,40.86296562,-73.84161195,Bus Station,Pharmacy,Pizza Place,Food & Drink Shop,Asian Restaurant,2
+95,Brooklyn,Brooklyn_Gravesend,40.59526001,-73.97347088,Lounge,Pizza Place,Bakery,Bar,Italian Restaurant,2
+98,Brooklyn,Brooklyn_Manhattan Terrace,40.61443251,-73.95743841,Pizza Place,Food & Drink Shop,Donut Shop,Dessert Shop,Convenience Store,2
+100,Brooklyn,Brooklyn_Crown Heights,40.67082918,-73.94329119,Pizza Place,Café,Museum,Cosmetics Shop,Bagel Shop,2
+102,Brooklyn,Brooklyn_Kensington,40.64238196,-73.98042111,Food & Drink Shop,Asian Restaurant,Pizza Place,Dessert Shop,Department Store,2
+124,Brooklyn,Brooklyn_Bath Beach,40.599518700000004,-73.99875221,Asian Restaurant,Pharmacy,Donut Shop,Dessert Shop,Fast Food Restaurant,2
+125,Brooklyn,Brooklyn_Borough Park,40.63313051,-73.99049823,Bank,Pizza Place,Food & Drink Shop,Pharmacy,Fast Food Restaurant,2
+133,Brooklyn,Brooklyn_Prospect Lefferts Gardens,40.65842002,-73.95489867,Food & Drink Shop,Bakery,Asian Restaurant,Café,Caribbean Restaurant,2
+137,Brooklyn,Brooklyn_Midwood,40.6255959,-73.95759523,Pizza Place,Dessert Shop,Candy Store,Pharmacy,Café,2
+150,Queens,Queens_Corona,40.74238175,-73.85682497,Food & Drink Shop,Latin American Restaurant,Asian Restaurant,Mexican Restaurant,Video Store,2
+158,Queens,Queens_Maspeth,40.72542737,-73.89621714,Food & Drink Shop,Asian Restaurant,Diner,Pizza Place,Dessert Shop,2
+159,Queens,Queens_Ridgewood,40.70832316,-73.90143518,Asian Restaurant,Café,Pharmacy,Food & Drink Shop,Mobile Phone Shop,2
+161,Queens,Queens_Rego Park,40.72897409,-73.85782687,Asian Restaurant,Food & Drink Shop,Bakery,Donut Shop,Pizza Place,2
+170,Queens,Queens_Douglaston,40.7668461,-73.74249821,Deli / Bodega,Asian Restaurant,Bank,Lounge,Convenience Store,2
+172,Queens,Queens_Bellerose,40.72857318,-73.72012815,Food & Drink Shop,Italian Restaurant,Pizza Place,Bank,Diner,2
+173,Queens,Queens_Kew Gardens Hills,40.72257824,-73.82087765,Bank,Bus Station,Playground,Pizza Place,Asian Restaurant,2
+174,Queens,Queens_Fresh Meadows,40.73439447,-73.78271337,Bus Station,Pharmacy,Asian Restaurant,Cosmetics Shop,Playground,2
+186,Queens,Queens_Far Rockaway,40.60313443,-73.75497968,Deli / Bodega,Food & Drink Shop,Asian Restaurant,Pizza Place,Bank,2
+189,Queens,Queens_Steinway,40.77592302,-73.90228959999999,Rental Car Location,Deli / Bodega,Cosmetics Shop,Italian Restaurant,Clothing Store,2
+203,Queens,Queens_Lindenwood,40.66391842,-73.84963782,Deli / Bodega,Asian Restaurant,Fruit & Vegetable Store,Fast Food Restaurant,Bank,2
+212,Queens,Queens_Forest Hills Gardens,40.71461108,-73.84102211,Food & Drink Shop,Bakery,Asian Restaurant,Sandwich Place,Pharmacy,2
+215,Staten Island,Staten Island_Stapleton,40.62692763,-74.07790193,Pizza Place,Cosmetics Shop,Sandwich Place,Coffee Shop,Bank,2
+216,Staten Island,Staten Island_Rosebank,40.61530495,-74.06980527,Italian Restaurant,Food & Drink Shop,Deli / Bodega,Cajun / Creole Restaurant,Storage Facility,2
+223,Staten Island,Staten Island_Castleton Corners,40.61333594,-74.11918059,Pizza Place,Tattoo Parlor,Hardware Store,Board Shop,Mini Golf,2
+224,Staten Island,Staten Island_New Springville,40.59425238,-74.16496031,Food & Drink Shop,Pizza Place,Asian Restaurant,Bagel Shop,Coffee Shop,2
+226,Staten Island,Staten Island_New Dorp,40.57257232,-74.11647944,Asian Restaurant,Italian Restaurant,Athletics & Sports,Mexican Restaurant,Pizza Place,2
+228,Staten Island,Staten Island_Great Kills,40.54948023,-74.14932381,Pizza Place,Asian Restaurant,Italian Restaurant,Food & Drink Shop,Bar,2
+229,Staten Island,Staten Island_Eltingville,40.54223075,-74.1643308,Asian Restaurant,Food & Drink Shop,Pizza Place,Italian Restaurant,Fast Food Restaurant,2
+230,Staten Island,Staten Island_Annadale,40.53811417,-74.17854866,Food & Drink Shop,Pizza Place,Bar,Park,Pharmacy,2
+231,Staten Island,Staten Island_Woodrow,40.54196762,-74.20524582,Asian Restaurant,Pharmacy,Food & Drink Shop,Diner,Pizza Place,2
+233,Staten Island,Staten Island_Tompkinsville,40.63731607,-74.08055352,Deli / Bodega,Pizza Place,Food & Drink Shop,Brewery,Caribbean Restaurant,2
+245,Staten Island,Staten Island_Old Town,40.59632891,-74.08751118,Italian Restaurant,Food & Drink Shop,Bus Stop,Spa,Optical Shop,2
+246,Staten Island,Staten Island_Dongan Hills,40.58867295,-74.09639905,Italian Restaurant,Pizza Place,Pharmacy,Asian Restaurant,Jewelry Store,2
+255,Staten Island,Staten Island_Rossville,40.54940401,-74.21572851,Bagel Shop,Pizza Place,Food & Drink Shop,Asian Restaurant,Moving Target,2
+257,Staten Island,Staten Island_Greenridge,40.55529524,-74.17079415,Professional & Other Places,Diner,Shipping Store,Lawyer,Pizza Place,2
+258,Staten Island,Staten Island_Heartland Village,40.58913895,-74.15902208,Coffee Shop,Pizza Place,Restaurant,Optical Shop,Food Truck,2
+261,Staten Island,Staten Island_Bulls Head,40.6095918,-74.15940949,Asian Restaurant,Pizza Place,Dessert Shop,Deli / Bodega,Food & Drink Shop,2
+264,Staten Island,Staten Island_Clifton,40.61917845,-74.07264245,Food & Drink Shop,Train Station,Mexican Restaurant,Burger Joint,Deli / Bodega,2
+270,Brooklyn,Brooklyn_New Lots,40.66274428,-73.88511776,Food & Drink Shop,Fried Chicken Joint,Asian Restaurant,Pizza Place,Art Gallery,2
+272,Brooklyn,Brooklyn_Mill Basin,40.61597424,-73.91515392,Asian Restaurant,Pizza Place,Dessert Shop,Food & Drink Shop,Bagel Shop,2
+276,Queens,Queens_Astoria Heights,40.77031739,-73.89467996,Italian Restaurant,Bus Station,Food & Drink Shop,Pizza Place,Playground,2
+289,Staten Island,Staten Island_Manor Heights,40.60180958,-74.120594,Deli / Bodega,Asian Restaurant,Donut Shop,Food & Drink Shop,Bagel Shop,2
+294,Brooklyn,Brooklyn_Homecrest,40.598525099999996,-73.95918459,Asian Restaurant,Bank,Donut Shop,Sandwich Place,Café,2
+296,Staten Island,Staten Island_Prince's Bay,40.52626407,-74.20152556,Asian Restaurant,Pizza Place,Pet Store,Pharmacy,Bagel Shop,2
+302,Bronx,Bronx_Bronxdale,40.85272298,-73.86172578,Food & Drink Shop,Italian Restaurant,Paper / Office Supplies Store,Bank,Mexican Restaurant,2
+303,Bronx,Bronx_Allerton,40.86578788,-73.85931863,Pizza Place,Deli / Bodega,Food & Drink Shop,Department Store,Asian Restaurant,2
+304,Bronx,Bronx_Kingsbridge Heights,40.87039239,-73.90152265,Pizza Place,Asian Restaurant,Mexican Restaurant,Deli / Bodega,Coffee Shop,2
